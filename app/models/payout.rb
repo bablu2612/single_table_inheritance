@@ -1,0 +1,2 @@
+class Payout < Statement
+end
